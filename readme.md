@@ -1,0 +1,1 @@
+This project is a test of the HTML skills that I have been learning from Odin. I will be creating a simple HTML-based recipe website. I will show that I have learned how to work with the HTML boilerplate, how to create text and lists, and how to create links within other directories to make a functional website.
