@@ -1,0 +1,11 @@
+* {font-family: Verdana, sans-serif}
+
+html {background-color: #66B2FF}
+
+h1 {font-size: 40px; font-weight: bold; text-align: center}
+
+#photo {height: auto; width: 70%; display: block; margin: auto}
+
+h2 {font-size: 30px; text-decoration: underline}
+
+h3 {font-size: 20px; font-style: italic}

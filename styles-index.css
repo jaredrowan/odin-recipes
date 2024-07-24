@@ -1,0 +1,8 @@
+html {background-color: #66B2FF}
+
+a:hover {color: green}
+a:visited {color: purple}
+
+h1 {font-size: 40px; font-family: Verdana, sans-serif; font-weight: bold; text-align: center}
+
+.recipe-link {font-size: 20px; font-family: Verdana, sans-serif; color: white}
